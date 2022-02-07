@@ -5,6 +5,11 @@
 
 ## History
 Started Jan 27th, 2022. 
++ Finish Module 1 on Jan 29th
++ Finish Module 2 on Jan 31st
++ Finish Module 3 on Feb 2nd
++ Finish Module 4 on Feb 4th
++ Finish code and notes collecting on Feb 6th
 
 
 
